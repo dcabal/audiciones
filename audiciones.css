@@ -16,3 +16,8 @@ section {
 section h2 {
     text-align: center;
 }
+
+.texto {
+    max-width: 80rem;
+    margin: auto;
+}
