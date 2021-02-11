@@ -1,0 +1,18 @@
+.audiciones-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    max-width: initial;
+}
+
+iframe {
+    margin: 0 auto;
+}
+
+section {
+    padding: 2rem;
+}
+
+section h2 {
+    text-align: center;
+}
